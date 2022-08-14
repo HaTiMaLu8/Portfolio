@@ -137,7 +137,7 @@ li {
   width: 50%;
   height: 95vh;
   border-radius: 0.5%;
-  background-image: url(../img/mv.jpg); 
+  background-image: url(../img/mv.png); 
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -414,7 +414,7 @@ li {
     width: 100%;
     height: 67vh;
     margin-bottom: 20px;
-    background-image: url(../img/sp_mv.jpg);
+    background-image: url(../img/sp_mv.png);
   }
 
   .split-title {
@@ -611,7 +611,7 @@ li {
   .split-img {
     width: 50%;
     height: 95vh;
-    background-image: url(../img/mv.jpg);
+    background-image: url(../img/mv.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -887,7 +887,7 @@ li {
     width: 100%;
     height: 67vh;
     margin-bottom: 20px;
-    background-image: url(../img/sp_mv.jpg);
+    background-image: url(../img/sp_mv.png);
   }
 
   .split-title {
